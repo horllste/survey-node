@@ -1,7 +1,7 @@
 // Hard coded survey questions
 module.exports = [
     {
-        text: 'Please tell us your age.',
+        text: 'Please tell us your age please.',
         type: 'number'
     },
     {
